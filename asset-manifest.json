@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texverter/static/css/main.f855e6bc.css",
+    "main.js": "/texverter/static/js/main.300a3a3a.js",
+    "static/js/453.2807b325.chunk.js": "/texverter/static/js/453.2807b325.chunk.js",
+    "index.html": "/texverter/index.html",
+    "main.f855e6bc.css.map": "/texverter/static/css/main.f855e6bc.css.map",
+    "main.300a3a3a.js.map": "/texverter/static/js/main.300a3a3a.js.map",
+    "453.2807b325.chunk.js.map": "/texverter/static/js/453.2807b325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.300a3a3a.js"
+  ]
+}
